@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://www.forme-nous.fr/choix.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.forme-nous.fr/cif.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.forme-nous.fr/cpf.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.forme-nous.fr/demandeur_emploi.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.forme-nous.fr/index.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.forme-nous.fr/salarie.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.forme-nous.fr/tns.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.forme-nous.fr/vae.html</loc>
+    <priority>0.7</priority>
+  </url>
+</urlset>
